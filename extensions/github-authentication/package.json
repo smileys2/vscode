@@ -39,7 +39,6 @@
         "command": "github-enterprise.provide-token",
         "title": "Manually Provide Token",
         "category": "GitHub Enterprise"
-
       }
     ],
     "menus": {
@@ -67,7 +66,7 @@
     "configuration": {
       "title": "GitHub Enterprise Authentication Provider",
       "properties": {
-        "github-enterprise.uri" : {
+        "github-enterprise.uri": {
           "type": "string",
           "description": "URI of your GitHub Enterprise Instanace"
         }
